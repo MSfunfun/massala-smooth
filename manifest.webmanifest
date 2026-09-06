@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "massala",
+  "short_name": "massala",
+  "description": "時間と十二支をめぐる和時計（滑らか版）",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#d5efd2",
+  "theme_color": "#d5efd2",
+  "icons": [
+    {
+      "src": "massala-app-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
